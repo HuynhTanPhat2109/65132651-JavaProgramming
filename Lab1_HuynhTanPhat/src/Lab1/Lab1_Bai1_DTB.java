@@ -1,5 +1,4 @@
 package Lab1;
-import java.util.Iterator;
 import java.util.Scanner;
 public class Lab1_Bai1_DTB {
 	public static void main(String[] args) {
